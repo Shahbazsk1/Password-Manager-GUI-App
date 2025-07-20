@@ -57,16 +57,6 @@
   <li><b>Entry :</b>	Input fields for website, email, password</li>
   <li><b>Button :</b>	Search, Generate Password, Add credentials</li>
 </ul>
-<p>plaintext
-
-┌──────────────────────────────────────┐
-│           [ Logo Image ]             │
-│ Website:  [_#website name_] [Search] │
-│ Email:    [_#your email_]            │
-│ Password: [#enter pass] [Generate..] │
-│           [       Add             ]  │
-└──────────────────────────────────────┘
-</p>
 <h3>🚀 How to Run the Project</h3>
 <ol>
   <li>Save the code in a file named password_manager.py</li>
